@@ -1,2 +1,5 @@
 # umc_android_flo
-umc 안드로이드 flo 클론 코딩 흐름
+
+UMC ANDROID 10주 과정의 결과물
+
+FLO앱을 Clone Coding 했다.
