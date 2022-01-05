@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android projects/FLO/app/src/main/res/drawable/main_btm_look_selector.xml" value="0.4197916666666667" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/drawable/main_btm_my_selector.xml" value="0.4197916666666667" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/drawable/whiteborder.xml" value="0.4197916666666667" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/layout/activity_login.xml" value="0.4036458333333333" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/layout/activity_main.xml" value="0.302536231884058" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/layout/activity_signup.xml" value="0.4036458333333333" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/layout/activity_song.xml" value="0.19630192502532928" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/layout/fragment_home.xml" value="0.4" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/layout/fragment_locker.xml" value="0.29891304347826086" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/layout/fragment_locker_musicfile.xml" value="0.10740740740740741" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/layout/fragment_locker_savedalbum.xml" value="0.10740740740740741" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/layout/fragment_locker_savedsong.xml" value="0.264" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/layout/item_album.xml" value="0.245018115942029" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/layout/item_locker_album.xml" value="0.30416666666666664" />
+        <entry key="..\:/android projects/FLO/app/src/main/res/layout/item_song.xml" value="0.30416666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
